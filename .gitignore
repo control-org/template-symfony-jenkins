@@ -5,8 +5,10 @@
 *.ali
 
 
+
 /vendor/
 /var/
 /coverage.xml
 /test-results/
-/.phpunit.cache/
+/.phpunit.result.cache
+/clover.xml
