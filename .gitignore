@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+
+
+/vendor/
+/var/
+/coverage.xml
+/test-results/
+/.phpunit.cache/
